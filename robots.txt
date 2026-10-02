@@ -1,0 +1,7 @@
+# Dotous — public crawling policy
+# Dotous is intended to be publicly discoverable by search engines and AI crawlers.
+User-agent: *
+Allow: /
+
+# No crawler-specific block is intentionally defined.
+# Add a Sitemap line here after the public Dotous domain is finalized.
